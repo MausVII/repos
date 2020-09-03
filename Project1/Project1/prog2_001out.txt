@@ -1,0 +1,16 @@
+Brisa Puente
+C.S.1428.001
+Lab Section: 03
+10/03/18
+
+Received 50.00 for a purchase of 46.02
+
+  Change in coins: 
+Coin          Number
+--------------------
+Dollars        3
+Half_Dollars   1
+Quarters       1
+Dimes          2
+Nickels        0
+Pennies        3

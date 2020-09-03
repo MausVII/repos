@@ -1,0 +1,9 @@
+If people do not believe that mathematics is simple, it is only 
+because they do not realize how complicated life is.
+
+Remark made by von Neumann as keynote speaker at 
+the first national meeting of the Association for Computing Machinery 
+in 1947,  as mentioned by Franz L. Alt at the end of 'Archaeology of 
+computers -  Reminiscences, 1945--1947', Communications of the ACM, 
+volume 15, issue 7, July 1972, special issue ---  Twenty-fifth 
+anniversary of the Association for Computing Machinery, p. 694.
