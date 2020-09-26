@@ -3,6 +3,7 @@
 
 KnowledgeBase::KnowledgeBase()
 {
+	printConclusionList();
 	//	First Questions In The Tree Decide Wheter The Attack is a DDoD, Phishing or Malware
 	findClass();
 	// Go Down The Decision Tree
@@ -211,5 +212,12 @@ void KnowledgeBase::printConclusion() const
 		break;
 	}
 	
+}
+
+void KnowledgeBase::printConclusionList() const
+{
+	std::cout << "Conclusion List:\t" << "ATTACK CLASS\n"
+		<< "\t\t\tATTACK TYPE\n";
+	std::cout << "Answer the following questions to find the class and type of the attack.\n\n";
 }
 

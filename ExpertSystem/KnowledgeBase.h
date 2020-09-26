@@ -12,6 +12,7 @@ public:
 	void findClass();
 	void findType();
 	void printConclusion() const;
+	void printConclusionList() const;
 private:
 	
 	enum AttackClass {
